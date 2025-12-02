@@ -54,8 +54,7 @@ margin: 0;
 }
 
 .gallery {
-min-height: 300px;
-max-height: 576px;
+min-height: 100%;
 }
 
 .gallery-container {
@@ -77,4 +76,16 @@ max-height: 576px;
 .menu-pic{
     height: 400px;
     object-fit: cover;
+}
+
+.footer-top {
+    background-color: #272727;
+    color: #ffffff;
+    height: auto;
+
+}
+
+.footer-bottom {
+    background-color: #000000;
+    color: #ffffff;
 }
