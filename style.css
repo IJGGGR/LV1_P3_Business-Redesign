@@ -1,3 +1,35 @@
+body {
+    font-family: "Hanuman", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+nav {
+background-color: #a80532 !important;
+}
+
+.nav-link {
+color: #ffffff !important;
+font-weight: bold;
+}
+
+.logIn, .createAccount {
+font-weight: normal;
+display: flex;
+align-items: center ;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-nav > p {
+margin: 0;
+}
 .menu-bg{
     background:url(assets/2676234bea589f.jpg) no-repeat center;
     min-height: 500px;
@@ -14,5 +46,4 @@
     min-height: 188px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-}
+    justify-content: center;}
