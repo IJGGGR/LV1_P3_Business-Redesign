@@ -1,5 +1,5 @@
 body {
-    font-family: "Hanuman", serif;
+  font-family: "Hanuman", serif;
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
@@ -7,26 +7,27 @@ body {
 
 
 nav {
-background-color: #a80532 !important;
+  background-color: #a80532 !important;
 }
 
 .nav-link {
-color: #ffffff !important;
-font-weight: bold;
+  color: #ffffff !important;
+  font-weight: bold;
 }
 
-.logIn, .createAccount {
-font-weight: normal;
-display: flex;
-align-items: center ;
+.logIn,
+.createAccount {
+  font-weight: normal;
+  display: flex;
+  align-items: center;
 }
 
 .navbar-nav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.navbar-nav > p {
-margin: 0;
+.navbar-nav>p {
+  margin: 0;
 }
