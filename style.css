@@ -47,3 +47,8 @@ margin: 0;
     display: flex;
     flex-direction: column;
     justify-content: center;}
+
+.d-row{
+    display: flex;
+    flex-direction: row;
+}
