@@ -73,3 +73,8 @@ max-height: 576px;
     display: flex;
     flex-direction: row;
 }
+
+.menu-pic{
+    height: 400px;
+    object-fit: cover;
+}
