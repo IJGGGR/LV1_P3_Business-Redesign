@@ -6,11 +6,11 @@ body {
 }
 
 
-nav {
+.bg-red {
 background-color: #a80532 !important;
 }
 
-.nav-link {
+.nav-link, .galleryHeader {
 color: #ffffff !important;
 font-weight: bold;
 }
@@ -47,6 +47,27 @@ margin: 0;
     display: flex;
     flex-direction: column;
     justify-content: center;}
+
+.welcome {
+    color: #a80532;
+    font-weight: 600;
+}
+
+.gallery {
+min-height: 300px;
+max-height: 576px;
+}
+
+.gallery-container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.gallery-container img {
+    width: 100%;
+}
 
 .d-row{
     display: flex;
