@@ -88,15 +88,27 @@ font-weight: bold;
   background: url(assets/2676234bea589f.jpg) no-repeat center;
   min-height: 500px;
   align-content: center;
+    background-size: cover;
+
+}
+.location-bg {
+  background: url(assets/3676234bea6900.jpg) no-repeat center;
+  min-height: 500px;
+  align-content: center;
+  background-size: cover;
 }
 
 .bg-gray {
   background-color: rgba(255, 255, 255, 0.662);
   min-width: 310px;
-  max-width: 600px;
+  max-width: 800px;
 }
 .menu-header {
   font-size: clamp(5rem, 20vw, 10rem);
+}
+
+.location-header {
+    font-size: clamp(4rem, 10vw, 8rem);
 }
 
 .menu-categories {
