@@ -98,9 +98,11 @@ font-weight: bold;
 .menu-header {
   font-size: clamp(5rem, 20vw, 10rem);
 }
-.d-row {
-  display: flex;
-  flex-direction: row;
+
+.menu-categories {
+  font-size: clamp(1rem, 3vw, 2rem);
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .menu-pic {
