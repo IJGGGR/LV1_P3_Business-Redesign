@@ -21,6 +21,11 @@ display: flex;
 align-items: center ;
 }
 
+.navBetween {
+    display: flex;
+    justify-content: space-between;
+}
+
 .navbar-nav {
     display: flex;
     justify-content: center;
@@ -88,4 +93,19 @@ min-height: 100%;
 .footer-bottom {
     background-color: #000000;
     color: #ffffff;
+}
+
+@media (max-width: 992px) {
+    .navBetween {
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .accountDivider {
+        display: none;
+    }
+
+    .logIn, .createAccount {
+        font-weight: bold;
+    }
 }
