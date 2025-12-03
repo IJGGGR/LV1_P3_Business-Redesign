@@ -178,4 +178,8 @@ font-weight: bold;
 .nav-link {
   font-size: 12px;
 }
+
+.menu-pic {
+  height: 200px;
+}
 }
