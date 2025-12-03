@@ -120,6 +120,7 @@ font-weight: bold;
 .menu-pic {
   height: 400px;
   object-fit: cover;
+  padding: 0;
 }
 
 .footer-top {
