@@ -63,6 +63,15 @@ font-weight: bold;
   flex-direction: column;
   justify-content: center;
 }
+.bg-red{
+    background-color: #a80532;
+    color: white;
+}
+
+.bg-margin{
+    margin-left: 5%;
+    margin-right: 5%;
+}
 
 .welcome {
   color: #a80532;
@@ -128,6 +137,7 @@ font-weight: bold;
   height: 400px;
   object-fit: cover;
   padding: 0;
+  max-width: 100%;
 }
 
 .footer-top {
