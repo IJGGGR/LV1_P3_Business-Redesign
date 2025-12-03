@@ -13,6 +13,7 @@ background-color: #a80532 !important;
 .nav-link, .galleryHeader {
 color: #ffffff !important;
 font-weight: bold;
+padding: 40px;
 }
 
 .logIn, .createAccount {
@@ -115,11 +116,17 @@ min-height: 100%;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(3, 1fr);
 }
+.galleryHeader {
+    padding: 30px;
+}
 }
 
 @media (max-width: 450px) {
 .gallery-container {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(6, 1fr);
+}
+.galleryHeader {
+    padding: 20px;
 }
 }
