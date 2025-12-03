@@ -28,6 +28,22 @@ nav {
   align-items: center;
 }
 
-.navbar-nav>p {
-  margin: 0;
+.btn-menu {
+  font-weight: normal;
+}
+
+.btn-menu:hover {
+  cursor: pointer;
+}
+
+.div-menu {
+  display: none;
+}
+
+.btn-menu-select {
+  font-weight: bold;
+}
+
+.div-menu-select {
+  display: block;
 }
