@@ -109,3 +109,17 @@ min-height: 100%;
         font-weight: bold;
     }
 }
+
+@media (max-width: 768px) {
+.gallery-container {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+}
+
+@media (max-width: 450px) {
+.gallery-container {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+}
+}
