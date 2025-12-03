@@ -108,6 +108,15 @@ font-weight: bold;
   max-width: 100%;
 }
 
+.titlePrice {
+  display: flex;
+justify-content: space-between;
+}
+
+.price {
+  text-align: end;
+}
+
 .location-header {
     font-size: clamp(4rem, 10vw, 8rem);
     max-width: 100%;
@@ -181,5 +190,15 @@ font-weight: bold;
 
 .menu-pic {
   height: 200px;
+}
+
+.titlePrice {
+  display: flex;
+  flex-direction: column;
+}
+
+.price {
+  text-align: start;
+
 }
 }
