@@ -108,11 +108,6 @@ font-weight: bold;
   max-width: 100%;
 }
 
-.titlePrice {
-  display: flex;
-justify-content: space-between;
-}
-
 .price {
   text-align: end;
 }
