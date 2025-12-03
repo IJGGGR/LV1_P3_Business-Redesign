@@ -1,5 +1,5 @@
 body {
-    font-family: "Hanuman", serif;
+  font-family: "Hanuman", serif;
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
@@ -7,7 +7,7 @@ body {
 
 
 .bg-red {
-background-color: #a80532 !important;
+  background-color: #a80532 !important;
 }
 
 .nav-link, .galleryHeader {
@@ -33,117 +33,124 @@ font-weight: bold;
   padding-right: 20px;
 }
 
-.logIn, .createAccount {
-font-weight: normal;
-display: flex;
-align-items: center ;
+.logIn,
+.createAccount {
+  font-weight: normal;
+  display: flex;
+  align-items: center;
 }
 
 .navBetween {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .navbar-nav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.navbar-nav > p {
-margin: 0;
+.navbar-nav>p {
+  margin: 0;
 }
-.menu-bg{
-    background:url(assets/2676234bea589f.jpg) no-repeat center;
-    min-height: 500px;
-    align-content: center;
+
+.menu-bg {
+  background: url(assets/2676234bea589f.jpg) no-repeat center;
+  min-height: 500px;
+  align-content: center;
 }
-.bg-gray{
-    background-color: rgba(255, 255, 255, 0.662);
-    font-size: 200px;
-    
+
+.bg-gray {
+  background-color: rgba(255, 255, 255, 0.662);
+  font-size: 200px;
 }
-.bg-green{
-    background-color: #006747;
-    color: white;
-    min-height: 188px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;}
+
+.bg-green {
+  background-color: #006747;
+  color: white;
+  min-height: 188px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 
 .welcome {
-    color: #a80532;
-    font-weight: 600;
+  color: #a80532;
+  font-weight: 600;
 }
 
 .gallery {
-min-height: 100%;
+  min-height: 100%;
 }
 
 .gallery-container {
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(2, 1fr);
-    gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 20px;
 }
 
 .gallery-container img {
-    width: 100%;
+  width: 100%;
 }
 
-.d-row{
-    display: flex;
-    flex-direction: row;
+.d-row {
+  display: flex;
+  flex-direction: row;
 }
 
-.menu-pic{
-    height: 400px;
-    object-fit: cover;
+.menu-pic {
+  height: 400px;
+  object-fit: cover;
 }
 
 .footer-top {
-    background-color: #272727;
-    color: #ffffff;
-    height: auto;
+  background-color: #272727;
+  color: #ffffff;
+  height: auto;
 
 }
 
 .footer-bottom {
-    background-color: #000000;
-    color: #ffffff;
+  background-color: #000000;
+  color: #ffffff;
 }
 
 @media (max-width: 992px) {
-    .navBetween {
-        justify-content: center;
-        flex-direction: column;
-    }
+  .navBetween {
+    justify-content: center;
+    flex-direction: column;
+  }
 
-    .accountDivider {
-        display: none;
-    }
+  .accountDivider {
+    display: none;
+  }
 
-    .logIn, .createAccount {
-        font-weight: bold;
-    }
+  .logIn,
+  .createAccount {
+    font-weight: bold;
+  }
 }
 
 @media (max-width: 768px) {
-.gallery-container {
+  .gallery-container {
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(3, 1fr);
-}
-.galleryHeader {
+  }
+
+  .galleryHeader {
     padding: 30px;
-}
+  }
 }
 
 @media (max-width: 450px) {
-.gallery-container {
+  .gallery-container {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(6, 1fr);
-}
-.galleryHeader {
+  }
+
+  .galleryHeader {
     padding: 20px;
 }
 
