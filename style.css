@@ -55,17 +55,6 @@ font-weight: bold;
   margin: 0;
 }
 
-.menu-bg {
-  background: url(assets/2676234bea589f.jpg) no-repeat center;
-  min-height: 500px;
-  align-content: center;
-}
-
-.bg-gray {
-  background-color: rgba(255, 255, 255, 0.662);
-  font-size: 200px;
-}
-
 .bg-green {
   background-color: #006747;
   color: white;
@@ -95,6 +84,20 @@ font-weight: bold;
   width: 100%;
 }
 
+.menu-bg {
+  background: url(assets/2676234bea589f.jpg) no-repeat center;
+  min-height: 500px;
+  align-content: center;
+}
+
+.bg-gray {
+  background-color: rgba(255, 255, 255, 0.662);
+  min-width: 310px;
+  max-width: 600px;
+}
+.menu-header {
+  font-size: clamp(5rem, 20vw, 10rem);
+}
 .d-row {
   display: flex;
   flex-direction: row;
