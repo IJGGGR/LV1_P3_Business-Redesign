@@ -107,6 +107,27 @@ font-weight: bold;
   background-size: cover;
 }
 
+.orders-bg {
+  background: url(assets/1676234bea4ade.jpg) no-repeat center;
+  min-height: 300px;
+  align-content: center;
+  background-size: cover;
+}
+
+.orders-div {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+textarea {
+min-width: 310px;
+height: 200px;
+}
+
 .bg-gray {
   background-color: rgba(255, 255, 255, 0.662);
   min-width: 310px;
@@ -121,7 +142,7 @@ font-weight: bold;
   text-align: end;
 }
 
-.location-header {
+.location-header, .orders-header {
     font-size: clamp(4rem, 10vw, 8rem);
     max-width: 100%;
 
