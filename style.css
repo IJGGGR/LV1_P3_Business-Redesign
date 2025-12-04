@@ -97,12 +97,12 @@ font-weight: bold;
   background: url(assets/2676234bea589f.jpg) no-repeat center;
   min-height: 300px;
   align-content: center;
-    background-size: cover;
+  background-size: cover;
 
 }
 .location-bg {
   background: url(assets/3676234bea6900.jpg) no-repeat center;
-  min-height: 500px;
+  min-height: 300px;
   align-content: center;
   background-size: cover;
 }
