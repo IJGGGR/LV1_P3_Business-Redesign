@@ -1,5 +1,7 @@
+# P3 - Business Redesign
 
-
+- Authors: Nicolas Gonzaba, Isaias Gonzalez, Darcy Rose
+- Revised: 2025-12-05
 
 Peer Review: (Daniel Herrera)
 
