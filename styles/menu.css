@@ -4,6 +4,7 @@
 
 .btn-menu:hover {
   cursor: pointer;
+  text-decoration: underline;
 }
 
 .div-menu {

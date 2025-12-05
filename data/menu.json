@@ -1,0 +1,518 @@
+{
+  "popular-items": {
+    "name": "Popular Items",
+    "desc": null,
+    "list": [
+      {
+        "cost": "17.99",
+        "name": "Crispy Tacos Dinner",
+        "desc": "Two crispy shell tacos with lettuce, tomato, cheese, and your choice of beef, chicken, or pork drizzled with sauce."
+      },
+      {
+        "cost": "2.99",
+        "name": "Gravy & Cheese",
+        "desc": null
+      },
+      {
+        "cost": "6.50",
+        "name": "Chips & Salsa",
+        "desc": null
+      },
+      {
+        "cost": "17.99",
+        "name": "Enchiladas Dinner",
+        "desc": "Two soft corn tortillas wrapped around your choice of beef, chicken, or pork covered in our famous gravy and melted cheese."
+      },
+      {
+        "cost": "2.00",
+        "name": "Tortillas Regular (4)",
+        "desc": null
+      },
+      {
+        "cost": "17.99",
+        "name": "Double Custom Combo",
+        "desc": "Two entrees of your choice. Served with rice, beans, and tortillas."
+      },
+      {
+        "cost": "14.69",
+        "name": "Menudo",
+        "desc": "Tender honeycomb tripe prepared with our generations old family recipe, with all the fixin's."
+      },
+      {
+        "cost": "20.99",
+        "name": "Chimichangas Dinner",
+        "desc": "Two crispy fried burritos filled with your choice of chicken, beef, or pork served with guacamole and sour cream."
+      }
+    ]
+  },
+  "burgers-and-sandwiches": {
+    "name": "Burgers & Sandwiches",
+    "desc": "All burgers and sandwiches are served on Genova bread and come with fresh-made Kennebec french fries. Our 1/3 lb. burgers are made with 100% natural ground chuck from Painted Hills, expertly seasoned for a truly unique burger experience.",
+    "list": [
+      {
+        "cost": "13.99",
+        "name": "The Real Burger",
+        "desc": "Lettuce, tomato, red onion, pickle, and special sauce piled on a Genova bun."
+      },
+      {
+        "cost": "14.99",
+        "name": "Mama Julia's Favorite Burger",
+        "desc": "Now for a real treat! On a Genova bun, we pile on fresh beef, ham, bacon, pineapple, American cheese, lettuce, tomato, onion, and our special sauce. Did mama miss anything on this burger?"
+      },
+      {
+        "cost": "14.99",
+        "name": "Mushroom Jack Burger",
+        "desc": "Fresh sautéed mushrooms, caramelized onions, and our special sauce with melted Monterey Jack cheese."
+      },
+      {
+        "cost": "12.99",
+        "name": "Luis' Classic BLT",
+        "desc": "Nothing more classic than bacon, lettuce, and tomato."
+      },
+      {
+        "cost": "13.99",
+        "name": "Patty Melt",
+        "desc": "Our natural ground chuck patty piled high with caramelized onions and American cheese on grilled rye bread."
+      },
+      {
+        "cost": "14.99",
+        "name": "The Club",
+        "desc": "The classic triple decker with roasted turkey, smoked ham, bacon, lettuce, tomato, and special sauce."
+      },
+      {
+        "cost": "17.49",
+        "name": "Grilled Chicken Sandwich",
+        "desc": "Grilled chicken breast with bacon."
+      },
+      {
+        "cost": "17.49",
+        "name": "Steak Sandwich",
+        "desc": "Ribeye steak with bacon."
+      },
+      {
+        "cost": "14.99",
+        "name": "Torta de Asada",
+        "desc": "Onion, lettuce, tomato, and hot sauce."
+      },
+      {
+        "cost": "14.99",
+        "name": "Torta de Carnitas",
+        "desc": "Onion, lettuce, tomato, and hot sauce."
+      },
+      {
+        "cost": "21.99",
+        "name": "Famous Torta Cubana",
+        "desc": "Hope you are hungry, this sandwich has it all! Piles of meat topped with a fried egg."
+      },
+      {
+        "cost": "12.99",
+        "name": "Monster Burger",
+        "desc": null
+      }
+    ]
+  },
+  "lunch-specials": {
+    "name": "Lunch Specials",
+    "desc": "Available 9 AM - 9 PM. Served with mexican rice, your choice of refried beans or whole beans, and salad.",
+    "list": []
+  },
+  "custom-combo": {
+    "name": "Custom Combo",
+    "desc": "Served with rice, beans, and tortillas.",
+    "list": [
+      {
+        "cost": "17.99",
+        "name": "Double Custom Combo",
+        "desc": "Two entrees of your choice."
+      },
+      {
+        "cost": "20.99",
+        "name": "Triple Custom Combo",
+        "desc": "Three entrees of your choice."
+      }
+    ]
+  },
+  "soups-and-salads": {
+    "name": "Soups & Salads",
+    "desc": "Our soups are created using daily-made stocks with farm-fresh vegetables and meats.",
+    "list": []
+  },
+  "house-specials": {
+    "name": "House Specials",
+    "desc": "Served with mexican rice, your choice of refried beans or whole beans, and fresh tortillas (upon request).",
+    "list": []
+  },
+  "dinner": {
+    "name": "Dinner",
+    "desc": "These dishes are created with recipes that have been handed down for generations. Served with rice and beans.",
+    "list": []
+  },
+  "combinations": {
+    "name": "Combinations",
+    "desc": null,
+    "list": [
+      {
+        "cost": "22.25",
+        "name": "Luis' Favorite",
+        "desc": "One taco, one enchilada, one chile relleno, and steak ranchero. Served with rice, beans, and salad."
+      },
+      {
+        "cost": "21.99",
+        "name": "No. 1 - Cuate and Alexandra's Favorite",
+        "desc": "One beef taco, one beef enchilada, one chile relleno, and your choice of chile colorado or chile verde."
+      },
+      {
+        "cost": "18.25",
+        "name": "No. 2 - Tito's Favorite",
+        "desc": "One taco and one enchilada, your choice of beef or chicken."
+      },
+      {
+        "cost": "22.25",
+        "name": "No. 3 - Tuti's Favorite",
+        "desc": "One chicken taco, one chicken enchilada, one chile relleno, and your choice of chile colorado or chile verde."
+      },
+      {
+        "cost": "22.25",
+        "name": "No. 4 - Jeshua's Favorite",
+        "desc": "One taco, one enchilada, one tamal, and your choice of chile colorado or chile verde."
+      },
+      {
+        "cost": "21.25",
+        "name": "No. 5 - Familia Rivera's Favorite",
+        "desc": "One beef taco, one cheese enchilada, and steak ranchero."
+      },
+      {
+        "cost": "22.25",
+        "name": "No. 6 - Familia Mercado's Favorite",
+        "desc": "One beef enchilada, one quesadilla, and steak ranchero."
+      }
+    ]
+  },
+  "extras-and-sides": {
+    "name": "Extras & Sides",
+    "desc": null,
+    "list": []
+  },
+  "beverages": {
+    "name": "Beverages",
+    "desc": null,
+    "list": [
+      {
+        "cost": "3.99",
+        "name": "Soft Drink",
+        "desc": null
+      },
+      {
+        "cost": "2.49",
+        "name": "Soft Drink (Kid's)",
+        "desc": null
+      },
+      {
+        "cost": "4.99",
+        "name": "Milk",
+        "desc": null
+      },
+      {
+        "cost": "3.99",
+        "name": "Horchata",
+        "desc": null
+      },
+      {
+        "cost": "3.99",
+        "name": "Chocolate Milk",
+        "desc": null
+      },
+      {
+        "cost": "3.69",
+        "name": "Hot Chocolate",
+        "desc": null
+      },
+      {
+        "cost": "3.99",
+        "name": "Clayton Coffee",
+        "desc": null
+      },
+      {
+        "cost": "2.99",
+        "name": "Hot Tea",
+        "desc": null
+      },
+      {
+        "cost": "5.69",
+        "name": "Fresh-Squeezed Orange Juice",
+        "desc": null
+      },
+      {
+        "cost": "6.49",
+        "name": "Fresh-Squeezed Orange Juice (Large)",
+        "desc": null
+      },
+      {
+        "cost": "3.29",
+        "name": "Apple Juice",
+        "desc": null
+      },
+      {
+        "cost": "2.99",
+        "name": "Tomato Juice",
+        "desc": null
+      }
+    ]
+  },
+  "beer-and-wine": {
+    "name": "Beer & Wine",
+    "desc": "Must be 21 or older to order. ID will be checked at pickup.",
+    "list": [
+      {
+        "cost": "7.25",
+        "name": "Domestic / Premium Beer",
+        "desc": null
+      },
+      {
+        "cost": "9.99",
+        "name": "Domestic / Premium Beer (XL)",
+        "desc": null
+      },
+      {
+        "cost": "19.99",
+        "name": "Domestic / Premium Beer (Pitcher)",
+        "desc": null
+      },
+      {
+        "cost": "7.29",
+        "name": "Hybrid House Wine",
+        "desc": null
+      },
+      {
+        "cost": "19.00",
+        "name": "Hybrid Wine Bottle",
+        "desc": null
+      },
+      {
+        "cost": "12.49",
+        "name": "Michelada",
+        "desc": null
+      },
+      {
+        "cost": "19.99",
+        "name": "El Padrino Michelada",
+        "desc": null
+      },
+      {
+        "cost": "22.99",
+        "name": "La Patrona (Shot Tequila)",
+        "desc": null
+      },
+      {
+        "cost": "24.99",
+        "name": "La Patrona (Top Shelf)",
+        "desc": null
+      },
+      {
+        "cost": "13.00",
+        "name": "Monster Cerveza",
+        "desc": null
+      },
+      {
+        "cost": "5.00",
+        "name": "Open Bottle",
+        "desc": null
+      },
+      {
+        "cost": "15.00",
+        "name": "Corkage",
+        "desc": null
+      }
+    ]
+  },
+  "breakfast": {
+    "name": "Breakfast",
+    "desc": "Mexican breakfasts are available all day; served with tortillas and your choice of rice and beans or potatoes. Diner breakfasts are available until 3 PM; most plates include: two eggs cooked to your liking, hash browns or country potatoes, and Genova toast or one pancake.",
+    "list": [
+      {
+        "cost": "16.99",
+        "name": "Chorizo con Huevos",
+        "desc": "Delicious, prepared in our kitchen. Mexican sausage and eggs, scrambled together."
+      },
+      {
+        "cost": "16.99",
+        "name": "Huevos Rancheros",
+        "desc": "Two fried eggs topped with our scrumptious steak ranchero."
+      },
+      {
+        "cost": "16.99",
+        "name": "Machaca",
+        "desc": "Shredded beef with onions, tomatoes, and three eggs, scrambled together."
+      },
+      {
+        "cost": "16.99",
+        "name": "Chilaquiles",
+        "desc": "Fried corn tortillas in a savory sauce topped with onion, cilantro, sour cream, and cheese."
+      },
+      {
+        "cost": "16.99",
+        "name": "Nopales con Huevos",
+        "desc": "Tender strips of cactus gently scrambled with farm fresh eggs."
+      },
+      {
+        "cost": "16.99",
+        "name": "Joe's Special",
+        "desc": "Fresh seasoned ground natural chuck with spinach, mushrooms, onions, and cheese."
+      },
+      {
+        "cost": "15.99",
+        "name": "Skillet Scramble",
+        "desc": "Scrambled eggs mixed with your favorite ingredients. Topped with cheese and served with choice of potato."
+      },
+      {
+        "cost": "25.49",
+        "name": "Geek Special",
+        "desc": "When Alexandra is craving breakfast, this hits the spot! Two eggs, ribeye steak, and our famous chilaquiles."
+      },
+      {
+        "cost": "14.99",
+        "name": "Sausage & Eggs",
+        "desc": "Four sausage links or three country style sausage patties."
+      },
+      {
+        "cost": "20.99",
+        "name": "Steak & Eggs",
+        "desc": "Tender half-pound ribeye steak cooked how you want it."
+      },
+      {
+        "cost": "20.99",
+        "name": "Chicken Fried Steak & Eggs",
+        "desc": "Hand - breaded ribeye steak, tenderized, and fried to perfection. Smothered in our scratch-made sausage gravy."
+      },
+      {
+        "cost": "14.99",
+        "name": "Real Corned Beef, Hash & Eggs",
+        "desc": "Not your ordinary corned beef, made fresh to order."
+      },
+      {
+        "cost": "14.99",
+        "name": "Ham & Eggs",
+        "desc": "Four hearty slices of smoked ham."
+      },
+      {
+        "cost": "14.99",
+        "name": "Linguica & Eggs",
+        "desc": "Portuguese style sausage grilled to perfection."
+      },
+      {
+        "cost": "17.99",
+        "name": "Luis' Breakfast",
+        "desc": "Two eggs, two bacon, two sausage, two pancakes, and potatoes."
+      },
+      {
+        "cost": "13.99",
+        "name": "Biscuits & Gravy",
+        "desc": "Two biscuits with sausage gravy, potatoes, and eggs."
+      },
+      {
+        "cost": "14.99",
+        "name": "Bacon & Eggs",
+        "desc": "Four slices of thick smoky bacon."
+      },
+      {
+        "cost": "10.99",
+        "name": "Classic Breakfast",
+        "desc": "Three eggs any style and choice of potatoes."
+      },
+      {
+        "cost": "12.99",
+        "name": "Omelets",
+        "desc": "Three fluffy eggs cooked to order, filled with your favorite ingredients, and served with your choice of potatoes and toast."
+      },
+      {
+        "cost": "12.49",
+        "name": "Breakfast Burrito",
+        "desc": "Eggs, potatoes, and your choice of breakfast meat."
+      },
+      {
+        "cost": "12.99",
+        "name": "Breakfast Special",
+        "desc": "Two eggs, two bacon slices or sausage links, and your choice of potatoes or one pancake."
+      },
+      {
+        "cost": "15.99",
+        "name": "333 Pancake Special",
+        "desc": "Three eggs, three slices of bacon or sausage links, and three fluffy scratch-made pancakes."
+      },
+      {
+        "cost": "16.99",
+        "name": "Waffle Combo",
+        "desc": "Comes with three eggs and four slices of bacon or sausage links."
+      },
+      {
+        "cost": "16.99",
+        "name": "French Toast Combo",
+        "desc": "Comes with three eggs and four slices of bacon or sausage links."
+      },
+      {
+        "cost": "10.99",
+        "name": "Pigs in a Blanket",
+        "desc": null
+      },
+      {
+        "cost": "5.99",
+        "name": "Oatmeal",
+        "desc": null
+      }
+    ]
+  },
+  "desserts": {
+    "name": "Desserts",
+    "desc": null,
+    "list": [
+      {
+        "cost": "4.99",
+        "name": "Flan",
+        "desc": null
+      }
+    ]
+  },
+  "menu": [
+    {
+      "type": "combos",
+      "info": null,
+      "list": [
+        {
+          "cost": "",
+          "name": "",
+          "desc": ""
+        },
+        {
+          "cost": "",
+          "name": "",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "type": "solos",
+      "info": null,
+      "list": []
+    },
+    {
+      "type": "extras-and-sides",
+      "info": null,
+      "list": []
+    },
+    {
+      "type": "mexican-breakfast",
+      "info": "",
+      "list": []
+    },
+    {
+      "type": "diner-breakfast",
+      "info": "",
+      "list": []
+    },
+    {
+      "type": "packing-companies",
+      "info": null,
+      "list": []
+    }
+  ]
+}
