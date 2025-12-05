@@ -1,3 +1,28 @@
+
+.div-menu-scale-sizing {
+  /* window range: 320px to 640px */
+  font-size: clamp(16px, 5vw, 32px);
+  padding: clamp(16px, 5vw, 32px) 0;
+}
+
+/* overrides bootstrap row gutter */
+.div-menu-scale-gutter {
+  /* window range: 320px to 640px */
+  --gutter: clamp(8px, 2.5vw, 16px);
+  margin-top: calc(-1 * var(--gutter));
+  margin-left: calc(-0.5 * var(--gutter));
+  margin-right: calc(-0.5 * var(--gutter));
+}
+
+/* overrides bootstrap row gutter */
+.div-menu-scale-gutter > * {
+  /* window range: 320px to 640px */
+  --gutter: clamp(8px, 2.5vw, 16px);
+  margin-top: var(--gutter);
+  padding-left: calc(0.5 * var(--gutter));
+  padding-right: calc(0.5 * var(--gutter));
+}
+
 .btn-menu {
   font-weight: normal;
 }
