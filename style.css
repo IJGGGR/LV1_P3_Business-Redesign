@@ -1,6 +1,5 @@
 body {
   font-family: "Hanuman", serif;
-  /* DEFAULT */
   font-optical-sizing: auto;
   font-weight: normal;
   font-style: normal;
@@ -61,21 +60,11 @@ body {
 .bg-green {
   background-color: #006747;
   color: white;
-  /* min-height: 188px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center; */
 }
 
 .bg-red {
   background-color: #a80532;
   color: white;
-}
-
-/* ! UNUSED ! */
-.bg-margin {
-  margin-left: 5%;
-  margin-right: 5%;
 }
 
 .welcome {
@@ -143,25 +132,11 @@ textarea {
   width: 80%;
 }
 
-
-/* ! UNUSED ! */
-.price {
-  text-align: end;
-}
-
 .location-header,
 .orders-header,
 .menu-header{
   font-size: clamp(4rem, 10vw, 8rem);
   max-width: 100%;
-}
-
-/* ! UNUSED ! */
-/* was used for category buttons div */
-.menu-categories {
-  font-size: clamp(1rem, 3vw, 2rem);
-  padding-top: 40px;
-  padding-bottom: 40px;
 }
 
 .menu-pic {
@@ -231,32 +206,10 @@ textarea {
   .map{
     width: 100%;
   }
-
-  /* ! UNUSED ! */
-  .titlePrice {
-    display: flex;
-    flex-direction: column;
-  }
-
-  /* ! UNUSED ! */
-  .price {
-    text-align: start;
-  }
-
 }
 
-
-/* ! UNUSED ! */
-/* TODO: redo menu items container width */
-
-@media (min-width:550px) {
+@media (min-width: 992px) {
   .mw {
-    max-width: 80%;
-  }
-}
-
-@media (min-width:850px) {
-  .mw {
-    max-width: 65%;
+    max-width: 960px;
   }
 }
