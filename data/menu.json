@@ -114,7 +114,93 @@
   "lunch-specials": {
     "name": "Lunch Specials",
     "desc": "Available 9 AM - 9 PM. Served with mexican rice, your choice of refried beans or whole beans, and salad.",
-    "list": []
+    "list": [
+      {
+        "cost": "16.99",
+        "name": "Colorado Lunch",
+        "desc": null
+      },
+      {
+        "cost": "16.99",
+        "name": "Chile Verde Lunch",
+        "desc": null
+      },
+      {
+        "cost": "16.99",
+        "name": "Steak Ranchero Lunch",
+        "desc": null
+      },
+      {
+        "cost": "14.49",
+        "name": "Verde Lunch",
+        "desc": null
+      },
+      {
+        "cost": "14.49",
+        "name": "Ranchero Lunch",
+        "desc": null
+      },
+      {
+        "cost": "8.99",
+        "name": "Rice / Beans Burrito Grande",
+        "desc": null
+      },
+      {
+        "cost": "12.00",
+        "name": "Burrito (No Super, No Sour Cream, No Guacamole)",
+        "desc": null
+      },
+      {
+        "cost": "15.38",
+        "name": "Super Burrito",
+        "desc": null
+      },
+      {
+        "cost": "16.49",
+        "name": "Shrimp Super Burrito",
+        "desc": null
+      },
+      {
+        "cost": "15.38",
+        "name": "Fish / Shrimp Taco",
+        "desc": null
+      },
+      {
+        "cost": "10.99",
+        "name": "Child's Plate",
+        "desc": null
+      },
+      {
+        "cost": "15.38",
+        "name": "Sope Lunch",
+        "desc": null
+      },
+      {
+        "cost": "15.38",
+        "name": "Enchilada Suiza Lunch",
+        "desc": null
+      },
+      {
+        "cost": "15.38",
+        "name": "Chimichanga Lunch",
+        "desc": null
+      },
+      {
+        "cost": "15.38",
+        "name": "Chile Relleno Lunch",
+        "desc": null
+      },
+      {
+        "cost": "15.38",
+        "name": "Flautas Lunch",
+        "desc": null
+      },
+      {
+        "cost": "10.99",
+        "name": "Chicken Strips",
+        "desc": null
+      }
+    ]
   },
   "custom-combo": {
     "name": "Custom Combo",
@@ -135,17 +221,240 @@
   "soups-and-salads": {
     "name": "Soups & Salads",
     "desc": "Our soups are created using daily-made stocks with farm-fresh vegetables and meats.",
-    "list": []
+    "list": [
+      {
+        "cost": "14.69",
+        "name": "Albóndigas",
+        "desc": "Mexican style meatballs and sautéed fresh vegetables in a homemade chicken broth."
+      },
+      {
+        "cost": "17.99",
+        "name": "Birria",
+        "desc": "Our chef's secret recipe! Beef slowly simmered in spices until it is fork tender, served with rice and beans."
+      },
+      {
+        "cost": "17.99",
+        "name": "Cocido",
+        "desc": null
+      },
+      {
+        "cost": "14.69",
+        "name": "Menudo",
+        "desc": "Tender honeycomb tripe prepared with our generations old family recipe, with all the fixin's."
+      },
+      {
+        "cost": "14.69",
+        "name": "Pozole",
+        "desc": "Tender pork simmered to perfection Mexico City style using our chef's secret recipe."
+      },
+      {
+        "cost": "14.69",
+        "name": "Chicken Soup",
+        "desc": null
+      },
+      {
+        "cost": "18.49",
+        "name": "Chicken Taco Grilled Salad",
+        "desc": null
+      },
+      {
+        "cost": "16.99",
+        "name": "Fiesta Taco Salad",
+        "desc": "Crispy flour tortilla bowl filled with fresh lettuce, rice, beans, tomato, cheese, olives, guacamole, and sour cream with choice of beef, chicken, or pork."
+      },
+      {
+        "cost": "12.99",
+        "name": "Luis' Caesar Salad",
+        "desc": "Fresh heart of romaine, avocado, homemade croutons, olives, and Parmesan cheese topped with our special creamy Caesar dressing."
+      },
+      {
+        "cost": "20.99",
+        "name": "Shrimp Taco Salad",
+        "desc": null
+      },
+      {
+        "cost": "20.99",
+        "name": "Shrimp Caesar Salad",
+        "desc": null
+      },
+      {
+        "cost": "17.99",
+        "name": "Caldo de Camarones",
+        "desc": "Fresh shrimp stock with sautéed vegetables, prawns, and chipotle garnish."
+      },
+      {
+        "cost": "26.99",
+        "name": "Caldo de Siete Mares",
+        "desc": "Delicious seafood soup loaded with crab, shrimp, calamari, mussels, clams, fish, and scallops. Mexican Cioppino!"
+      }
+    ]
   },
   "house-specials": {
     "name": "House Specials",
     "desc": "Served with mexican rice, your choice of refried beans or whole beans, and fresh tortillas (upon request).",
-    "list": []
+    "list": [
+      {
+        "cost": "21.99",
+        "name": "Carnitas Dinner Selections",
+        "desc": "Natural hormone-free pork cooked confit style and served with guacamole, sour cream, and pico de gallo."
+      },
+      {
+        "cost": "22.49",
+        "name": "Alambre Dinner Selections",
+        "desc": "Tender diced ribeye with bell pepper, onion, and bacon grilled to perfection and covered with melted Monterey Jack cheese with guacamole and sour cream."
+      },
+      {
+        "cost": "21.99",
+        "name": "Steak a la Chicana Dinner Selections",
+        "desc": "Beef steak sautéed with bell pepper, onion, and tomato finished in our delicious sauce."
+      },
+      {
+        "cost": "22.49",
+        "name": "Tehmoc's Chipotle Fusion Dinner Selections",
+        "desc": "Chef Cuauhtemoc's culinary creation! Chicken or shrimp sautéed with his signature creamy chipotle sauce and guacamole."
+      },
+      {
+        "cost": "22.49",
+        "name": "Mexico City Fish Tacos Dinner Selections",
+        "desc": "Grilled tilapia filet nestled in corn tortillas with lettuce, pico de gallo, and Monterey Jack cheese served with guacamole and sour cream."
+      },
+      {
+        "cost": "22.49",
+        "name": "Mexico City Shrimp Tacos Dinner Selections",
+        "desc": "Grilled shrimp nestled in corn tortillas with lettuce, pico de gallo, and Monterey Jack cheese served with guacamole and sour cream."
+      },
+      {
+        "cost": "22.49",
+        "name": "Camarones Rancheros Dinner Selections",
+        "desc": "Eight jumbo shrimp prawns sautéed with bell pepper, onion, and tomato finished with a flavorful sauce and served with guacamole and sour cream."
+      },
+      {
+        "cost": "22.49",
+        "name": "Camarones al Mojo de Ajo Dinner Selections",
+        "desc": "Scampi prawns with garlic, onion, bell pepper, tomato, and touch of red pepper with guacamole and sour cream."
+      },
+      {
+        "cost": "22.49",
+        "name": "Camarones a la Diabla Dinner Selections",
+        "desc": "Like it on the spicy side? Jumbo prawns are sautéed with a secret blend of spices to create this caliente delight."
+      },
+      {
+        "cost": "22.49",
+        "name": "Carne Asada Dinner Selections",
+        "desc": "Tender ribeye steak grilled to your liking with bell pepper, onion, and tomato served with guacamole and sour cream."
+      },
+      {
+        "cost": "33.99",
+        "name": "Three Amigos Dinner Selections",
+        "desc": "Hungry? Can't decide? Make friends with the three amigos. Chicken, shrimp, and ribeye grilled fajita style with guacamole and sour cream."
+      },
+      {
+        "cost": "23.49",
+        "name": "Fajitas",
+        "desc": null
+      },
+      {
+        "cost": "24.99",
+        "name": "Mix Fajitas",
+        "desc": null
+      },
+      {
+        "cost": "17.99",
+        "name": "Shrimp Cocktail",
+        "desc": null
+      }
+    ]
   },
   "dinner": {
     "name": "Dinner",
     "desc": "These dishes are created with recipes that have been handed down for generations. Served with rice and beans.",
-    "list": []
+    "list": [
+      {
+        "cost": "19.99",
+        "name": "Chile Verde Dinner",
+        "desc": "Tender pork slowly simmered in a sauce of fresh tomatillos, jalapenos, and cilantro."
+      },
+      {
+        "cost": "17.99",
+        "name": "Home-Style Tamales Dinner",
+        "desc": "Two traditional steamed pork tamales topped with our famous gravy and cheese."
+      },
+      {
+        "cost": "17.99",
+        "name": "Crispy Tacos Dinner",
+        "desc": "Two crispy shell tacos with lettuce, tomato, cheese, and your choice of beef, chicken, or pork drizzled with sauce."
+      },
+      {
+        "cost": "18.99",
+        "name": "Chile Rellenos Dinner",
+        "desc": "Two handmade fire-roasted fresh poblano chiles stuffed with creamy Monterey Jack cheese blanketed in a light fluffy egg batter."
+      },
+      {
+        "cost": "17.99",
+        "name": "Tostadas Dinner",
+        "desc": "Two crispy flat corn tortillas piled high with lettuce, beans, tomato, cheese, and your choice of beef, chicken, or pork."
+      },
+      {
+        "cost": "17.99",
+        "name": "Enchiladas Dinner",
+        "desc": "Two soft corn tortillas wrapped around your choice of beef, chicken, or pork covered in our famous gravy and melted cheese."
+      },
+      {
+        "cost": "17.99",
+        "name": "Quesadilla Dinner",
+        "desc": "Two large grilled flour tortillas loaded with cheese and your choice of beef, chicken, or pork with lettuce and tomato."
+      },
+      {
+        "cost": "17.99",
+        "name": "Burrito Dinner",
+        "desc": "Two flour tortillas stuffed with your choice of beef, chicken, or pork. Served \"wet\" style."
+      },
+      {
+        "cost": "20.99",
+        "name": "Flautas Dinner",
+        "desc": "Three rolled corn tortillas fried to a golden crisp with choice of beef or chicken served with guacamole and sour cream."
+      },
+      {
+        "cost": "20.99",
+        "name": "Chimichangas Dinner",
+        "desc": "Two crispy fried burritos filled with your choice of beef, chicken, or pork served with guacamole and sour cream."
+      },
+      {
+        "cost": "20.49",
+        "name": "Fajitas Dinner",
+        "desc": "Beef, chicken, or shrimp grilled with bell pepper, onion, and tomato served on a sizzling platter with a side of guacamole, sour cream, and handmade corn tortillas."
+      },
+      {
+        "cost": "20.99",
+        "name": "Sopes Dinner",
+        "desc": "Two handmade corn masa shells topped with beans, lettuce, tomato, and sour cream with choice of beef, chicken, pork, or asada."
+      },
+      {
+        "cost": "19.99",
+        "name": "Chile Colorado Dinner",
+        "desc": "Slowly simmered beef in authentic red sauce, just like mama used to make."
+      },
+      {
+        "cost": "19.99",
+        "name": "Steak Ranchero Dinner",
+        "desc": "Marinated beef steak and fresh vegetables slowly simmered for hours in a flavorful stock."
+      },
+      {
+        "cost": "17.99",
+        "name": "Sopes",
+        "desc": null
+      },
+      {
+        "cost": "19.99",
+        "name": "Enchiladas Suizas",
+        "desc": null
+      },
+      {
+        "cost": "20.99",
+        "name": "Shrimp Enchilada (Suiza)",
+        "desc": null
+      }
+    ]
   },
   "combinations": {
     "name": "Combinations",
@@ -191,7 +500,283 @@
   "extras-and-sides": {
     "name": "Extras & Sides",
     "desc": null,
-    "list": []
+    "list": [
+      {
+        "cost": "4.49",
+        "name": "Side of Guacamole",
+        "desc": null
+      },
+      {
+        "cost": "2.99",
+        "name": "Side of Sour Cream",
+        "desc": null
+      },
+      {
+        "cost": "2.99",
+        "name": "Gravy & Cheese",
+        "desc": null
+      },
+      {
+        "cost": "5.99",
+        "name": "Side of French Fries",
+        "desc": null
+      },
+      {
+        "cost": "3.95",
+        "name": "Side of Rice",
+        "desc": null
+      },
+      {
+        "cost": "2.99",
+        "name": "Side of Beans",
+        "desc": null
+      },
+      {
+        "cost": "6.99",
+        "name": "Bean Dip",
+        "desc": null
+      },
+      {
+        "cost": "9.99",
+        "name": "Order of Guacamole",
+        "desc": null
+      },
+      {
+        "cost": "3.49",
+        "name": "Pancake",
+        "desc": null
+      },
+      {
+        "cost": "0.30",
+        "name": "Jalape&ntilde;o (1)",
+        "desc": null
+      },
+      {
+        "cost": "1.50",
+        "name": "Cheese",
+        "desc": null
+      },
+      {
+        "cost": "4.75",
+        "name": "Short Stack",
+        "desc": null
+      },
+      {
+        "cost": "6.29",
+        "name": "Full Stack",
+        "desc": null
+      },
+      {
+        "cost": "7.75",
+        "name": "Side Bacon or Sausages (4)",
+        "desc": null
+      },
+      {
+        "cost": "6.00",
+        "name": "Side Potatoes",
+        "desc": null
+      },
+      {
+        "cost": "7.50",
+        "name": "Rice / Beans / Salsa / Gravy (12 Oz.)",
+        "desc": null
+      },
+      {
+        "cost": "10.00",
+        "name": "Rice / Beans / Salsa / Gravy (20 Oz.)",
+        "desc": null
+      },
+      {
+        "cost": "13.50",
+        "name": "Rice / Beans / Salsa / Gravy (32 Oz.)",
+        "desc": null
+      },
+      {
+        "cost": "7.50",
+        "name": "Chimichanga Ala Carte",
+        "desc": null
+      },
+      {
+        "cost": "7.75",
+        "name": "Fish / Shrimp Taco",
+        "desc": null
+      },
+      {
+        "cost": "7.50",
+        "name": "Relleno Solo",
+        "desc": null
+      },
+      {
+        "cost": "6.00",
+        "name": "Order Rice / Beans",
+        "desc": null
+      },
+      {
+        "cost": "7.25",
+        "name": "French Toast / Waffle",
+        "desc": null
+      },
+      {
+        "cost": "0.35",
+        "name": "To-Go",
+        "desc": null
+      },
+      {
+        "cost": "4.50",
+        "name": "Flour Chips",
+        "desc": null
+      },
+      {
+        "cost": "6.50",
+        "name": "Chips & Salsa",
+        "desc": null
+      },
+      {
+        "cost": "1.00",
+        "name": "Chips & Salsa (Small)",
+        "desc": null
+      },
+      {
+        "cost": "4.50",
+        "name": "Chips",
+        "desc": null
+      },
+      {
+        "cost": "2.50",
+        "name": "Side Toast",
+        "desc": null
+      },
+      {
+        "cost": "2.50",
+        "name": "Side Bread",
+        "desc": null
+      },
+      {
+        "cost": "2.50",
+        "name": "Shrimp (1)",
+        "desc": null
+      },
+      {
+        "cost": "9.50",
+        "name": "Shrimp (4)",
+        "desc": null
+      },
+      {
+        "cost": "17.00",
+        "name": "Shrimp (8)",
+        "desc": null
+      },
+      {
+        "cost": "2.25",
+        "name": "Side Avocado",
+        "desc": null
+      },
+      {
+        "cost": "2.59",
+        "name": "Pico de Gallo",
+        "desc": null
+      },
+      {
+        "cost": "12.00",
+        "name": "Steak Solo",
+        "desc": null
+      },
+      {
+        "cost": "3.99",
+        "name": "Dry Bean Burrito (Kid's)",
+        "desc": null
+      },
+      {
+        "cost": "4.25",
+        "name": "Side (2) Bacon / Sausage",
+        "desc": null
+      },
+      {
+        "cost": "14.25",
+        "name": "Ranchero / Verde / Colorado (Solo)",
+        "desc": null
+      },
+      {
+        "cost": "13.00",
+        "name": "Flautas Dinner Solo",
+        "desc": null
+      },
+      {
+        "cost": "13.00",
+        "name": "Chimichangas Dinner Solo",
+        "desc": null
+      },
+      {
+        "cost": "5.25",
+        "name": "Sour Cream / Guacamole",
+        "desc": null
+      },
+      {
+        "cost": "12.49",
+        "name": "Machaca / Nopales / Chilaquiles / Huevos Rancheros / Joes Special Solo",
+        "desc": null
+      },
+      {
+        "cost": "10.99",
+        "name": "Chilaquiles Solos",
+        "desc": null
+      },
+      {
+        "cost": "8.00",
+        "name": "Side Linguica / Ham",
+        "desc": null
+      },
+      {
+        "cost": "2.00",
+        "name": "Tortillas Regular (4)",
+        "desc": null
+      },
+      {
+        "cost": "3.00",
+        "name": "Street Taco (1)",
+        "desc": null
+      },
+      {
+        "cost": "25.49",
+        "name": "Colorado / Verde / Steak (32 Oz.)",
+        "desc": null
+      },
+      {
+        "cost": "5.00",
+        "name": "Nopales / Chorizo (No Eggs)",
+        "desc": null
+      },
+      {
+        "cost": "4.00",
+        "name": "Meat Bowls (2)",
+        "desc": null
+      },
+      {
+        "cost": "0.75",
+        "name": "Salsa (2 Oz.)",
+        "desc": null
+      },
+      {
+        "cost": "3.00",
+        "name": "Biscuit Extra",
+        "desc": null
+      },
+      {
+        "cost": "9.99",
+        "name": "Torta Solo",
+        "desc": null
+      },
+      {
+        "cost": "16.99",
+        "name": "Nachos",
+        "desc": null
+      },
+      {
+        "cost": "14.99",
+        "name": "Asada Fries",
+        "desc": null
+      }
+    ]
   },
   "beverages": {
     "name": "Beverages",
