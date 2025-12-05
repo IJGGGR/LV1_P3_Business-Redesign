@@ -139,10 +139,10 @@ textarea {
   max-width: 800px;
 }
 
-.menu-header {
-  font-size: clamp(5rem, 20vw, 10rem);
-  max-width: 100%;
+.map {
+  width: 80%;
 }
+
 
 /* ! UNUSED ! */
 .price {
@@ -150,7 +150,8 @@ textarea {
 }
 
 .location-header,
-.orders-header {
+.orders-header,
+.menu-header{
   font-size: clamp(4rem, 10vw, 8rem);
   max-width: 100%;
 }
@@ -227,6 +228,9 @@ textarea {
   .menu-pic {
     height: 200px;
   }
+  .map{
+    width: 100%;
+  }
 
   /* ! UNUSED ! */
   .titlePrice {
@@ -238,6 +242,7 @@ textarea {
   .price {
     text-align: start;
   }
+
 }
 
 
