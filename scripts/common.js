@@ -1,4 +1,10 @@
 
+// COMMON ==========================================================================================
+
+document.getElementById("fakeLink").addEventListener("click", () => {
+  alert("This is not a real website");
+});
+
 // INDEX ===========================================================================================
 
 document.querySelectorAll('.pop').forEach(item => {
@@ -12,9 +18,3 @@ document.querySelectorAll('.pop').forEach(item => {
     myModal.show();
   });
 });
-
-const fakeLink=document.getElementById("fakeLink")
-
-fakeLink.addEventListener("click",()=>{
-  alert("This is not a real website")
-})
