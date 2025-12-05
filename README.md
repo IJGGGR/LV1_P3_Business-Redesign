@@ -3,6 +3,8 @@
 - Authors: Nicolas Gonzaba, Isaias Gonzalez, Darcy Rose
 - Revised: 2025-12-05
 
+Isaiah approved figma on Tuesday Dec 2, 2025
+
 Peer Review: (Daniel Herrera)
 
 Website looks great! I recommend adjusting the padding on the text background color on top of the hero images. (Increase the top padding or have the text in the very center of the background color.)
