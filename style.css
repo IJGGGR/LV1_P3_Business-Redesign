@@ -139,6 +139,10 @@ textarea {
   max-width: 800px;
 }
 
+.map {
+  width: 80%;
+}
+
 
 /* ! UNUSED ! */
 .price {
@@ -224,6 +228,9 @@ textarea {
   .menu-pic {
     height: 200px;
   }
+  .map{
+    width: 100%;
+  }
 
   /* ! UNUSED ! */
   .titlePrice {
@@ -235,6 +242,7 @@ textarea {
   .price {
     text-align: start;
   }
+
 }
 
 
